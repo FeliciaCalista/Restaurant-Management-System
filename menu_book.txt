@@ -1,0 +1,7 @@
+Nasi Goreng:25.000
+Mie Goreng:25.000
+Paket Ayam Penyet:25.000
+Paket Ayam Geprek:25.000
+Nasi Padang:25.000
+Indomie:15.000
+Es Teler:15.000
